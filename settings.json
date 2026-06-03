@@ -1,14 +1,14 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "Slobot00",
+    "username": "ic3wingBOT",
     "password": "",
     "type": "offline"
   },
   "server": {
     "ip": "rankforge.aternos.me",
     "port": 38125,
-    "version": "",
+    "version": "26.1.2",
     "try-creative": false
   },
   "position": {
